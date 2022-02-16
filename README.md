@@ -2,7 +2,7 @@
 
 - Cursando Engenharia da Computação na Universidade de Pernambuco
 - Atualmente estudando Node.Js, Mongodb e Spring
-- Desenvolvedor web da Poli Júnior Engenharia]
+- Desenvolvedor web da Poli Júnior Engenharia
 
 <div align="center">
   <a href="https://github.com/pedinvini">
