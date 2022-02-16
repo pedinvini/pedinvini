@@ -1,10 +1,8 @@
-### Hi there 👋
+### Olá, me chamo Pedro Vinícius
 
 - Cursando Engenharia da Computação na Universidade de Pernambuco
 - Atualmente estudando Node.Js, Mongodb e Spring
 - Desenvolvedor web da Poli Júnior Engenharia]
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://github.com/pedinvini">
