@@ -1,8 +1,7 @@
 ### Olá, me chamo Pedro Vinícius
 
-- Cursando Engenharia da Computação na Universidade de Pernambuco
-- Atualmente estudando Node.Js, Mongodb e Spring
-- Desenvolvedor web da Poli Júnior Engenharia
+- Cursando Sistemas da Informação
+- Atualmente estudando Java, Spring e Python
 
 <div align="center">
   <a href="https://github.com/pedinvini">
