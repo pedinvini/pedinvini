@@ -1,7 +1,7 @@
 ### Olá, me chamo Pedro Vinícius
 
 - Cursando Sistemas da Informação
-- Atualmente estudando Java, Spring e Python
+- Atualmente estudando Java, Spring e Swift
 
 <div align="center">
   <a href="https://github.com/pedinvini">
